@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="org.ravi.helloworld.HelloTest" duration-ms="26" started-at="2018-12-24T07:02:51Z" finished-at="2018-12-24T07:02:51Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="26" started-at="2018-12-24T07:02:51Z" finished-at="2018-12-24T07:02:51Z">
+      <class name="org.ravi.helloworld.HelloTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:org.ravi.helloworld.HelloTest@4157f54e]" name="beforeTest" is-config="true" duration-ms="13" started-at="2018-12-24T12:32:51Z" finished-at="2018-12-24T12:32:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:org.ravi.helloworld.HelloTest@4157f54e]" name="f" duration-ms="1" started-at="2018-12-24T12:32:51Z" finished-at="2018-12-24T12:32:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:org.ravi.helloworld.HelloTest@4157f54e]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-12-24T12:32:51Z" finished-at="2018-12-24T12:32:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- org.ravi.helloworld.HelloTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- org.ravi.helloworld.HelloTest -->
+</testng-results>
